@@ -1,3 +1,15 @@
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/service-oriented-architecture.png
 name: Service Oriented Architecture
 description: An architectural pattern where software components provide services to other components through a communication protocol over a network. Services are loosely coupled, reusable, and can be independently deployed and maintained.
 url: https://en.wikipedia.org/wiki/Service-oriented_architecture
